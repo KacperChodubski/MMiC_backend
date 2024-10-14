@@ -5,7 +5,7 @@
 ```
 git clone https://github.com/KacperChodubski/MMiC_backend.git
 cd MMiC_backend
-chown u+x ./utils.py
+chmod u+x ./utils.py
 ```
 
 ## Obsługa
