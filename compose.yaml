@@ -1,0 +1,8 @@
+services:
+  api:
+    build:
+      context: .
+      target: MMiC_backend
+    container_name: MMiC-backend
+    ports:
+      - "8080:80"
